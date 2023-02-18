@@ -1,5 +1,5 @@
-**Testing and Making some projects for my Machine Learning Thesis   **
-**Roadmap Below-----**
+# Testing and Making some projects for my Machine Learning Thesis
+### ----------Roadmap Below----------
 ![](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap/main/images/intro.svg)
 ![](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap/main/images/fundamentals.svg)
 ![](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap/main/images/datascience.svg)
