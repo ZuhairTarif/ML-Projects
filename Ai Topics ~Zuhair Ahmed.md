@@ -1,5 +1,7 @@
 # Ai Topics                     ~Zuhair Ahmed
 
+![Untitled](Ai%20Topics%20~Zuhair%20Ahmed/Untitled.png)
+
 ### Classifier
 
 A classifier is an algorithm or model that takes input data and assigns it to one of several predefined categories or classes based on certain features or characteristics. The goal of a classifier is to learn from labelled training data and then use that knowledge to predict the category of new, unseen data.
@@ -129,15 +131,15 @@ Manhattan uses base and height and calculates them by axis.
 
 Formula: 
 
-![Untitled](Ai%20Topics%20~Zuhair%20Ahmed/Untitled.png)
-
 ![Untitled](Ai%20Topics%20~Zuhair%20Ahmed/Untitled%201.png)
+
+![Untitled](Ai%20Topics%20~Zuhair%20Ahmed/Untitled%202.png)
 
 Euclidian uses hypotenuses and calculates them by axis.
 
 Formula: 
 
-![Untitled](Ai%20Topics%20~Zuhair%20Ahmed/Untitled%202.png)
+![Untitled](Ai%20Topics%20~Zuhair%20Ahmed/Untitled%203.png)
 
 ### Outliers
 
