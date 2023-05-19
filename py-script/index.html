@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Demo</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="https://pyscript.net/releases/2023.03.1/pyscript.css" />
+    <script defer src="https://pyscript.net/releases/2023.03.1/pyscript.js"></script>
+</head>
+<body>
+    <h1>Demo Practice</h1>
+    <py-config src="./pyscript.toml"></py-config>
+    <py-script src="./main.py"></py-script>
+    <div id="ReplOutput" class="text-box">
+       <p> Repl Output will show here </p>
+ <style>
+    .text-box {
+      border: 1px solid black;
+      padding: 10px;
+      width: 300px;
+    }
+     
+  </style>
+        </div>
+    <py-repl output="ReplOutput"></py-repl>
+    
+</body>
+</html>
